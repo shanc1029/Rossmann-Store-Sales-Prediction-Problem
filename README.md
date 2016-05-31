@@ -9,16 +9,18 @@ In their first Kaggle competition, Rossmann is challenging you to predict 6 week
 https://www.kaggle.com/c/rossmann-store-sales
 
 This is a pretty interesting problem cause I always wonder waht can be the relatively vital effects to a store daily sales? My first tuitive on this I think might be weekends to be #1 and then possibily distance to competitors and then promotions (as far as I'm considered I was always "couraged" to buy those "buy one, get one" stuff), well, things would never be that easy.. So here we go, let's focus on the data and example to have an overall view on this prediction problem.
+
   I'll basically cover the following procedures and those are kinda my thought process.
+  
 1. Feature Engineering and EDA
-   1.1 Data Preparation
-   1.2 Customers Vs. Sales
-   1.3 Open, StateHoliday Vs. Sales
-   1.4 DayOfWeek Vs. Sales
-   1.5 Date Vs. Sales
-   1.6 Competition Vs. Sales
-   1.7 Promotion Vs. Sales
+   +1.1 Data Preparation
+   +1.2 Customers Vs. Sales
+   +1.3 Open, StateHoliday Vs. Sales
+   +1.4 DayOfWeek Vs. Sales
+   +1.5 Date Vs. Sales
+   +1.6 Competition Vs. Sales
+   +1.7 Promotion Vs. Sales
 2. Modeling and Prediction
-   2.1 Rpart Regression Tree and Conditional Inference Tree
-   2.2 Linear Model
-   2.3 Prediction
+   +2.1 Rpart Regression Tree and Conditional Inference Tree
+   +2.2 Linear Model
+   +2.3 Prediction
