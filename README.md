@@ -10,7 +10,7 @@ https://www.kaggle.com/c/rossmann-store-sales
 
 This is a pretty interesting problem cause I always wonder waht can be the relatively vital effects to a store daily sales? My first tuitive on this I think might be weekends to be #1 and then possibily distance to competitors and then promotions (as far as I'm considered I was always "couraged" to buy those "buy one, get one" stuff), well, things would never be that easy.. So here we go, let's focus on the data and example to have an overall view on this prediction problem.
 
-  I'll basically cover the following procedures and those are kinda my thought process.
+  I'll basically cover the following procedures:
   
 1. Feature Engineering and EDA
    +1.1 Data Preparation
