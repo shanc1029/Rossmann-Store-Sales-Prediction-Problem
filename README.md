@@ -1,4 +1,4 @@
-# Rossmann-Store-Sales-Prediction-Problem
+# Rossmann-Store-Sales-Prediction
 
 Forecast sales using store, promotion, and competitor data
 
